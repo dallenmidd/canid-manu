@@ -1,0 +1,26 @@
+﻿Data taken from ../lyme/2024/luke_manu/data and r scripts/data/Furbearer Data Final.xlsx
+lyme in cases per 100,000, gf, coy, rf are sightings per 1000 hr
+fur_area,rf,gf,coy,lyme
+St. Lawrence Valley,107.38,88.3,599.6,33.40357005
+Champlain Valley and Transition,127.89,65.72,482.39,49.33029152
+Northern Adirondacks,116.34,5.66,448.36,28.3694278
+East Ontario Plain,122.9,138.44,480.38,21.35991034
+Central Adirondacks,59.19,100.81,365.4,33.97155354
+Central Tug Hill,117.74,15.13,230.09,24.39095171
+Tug Hill Transition,55.04,55.16,355.56,16.06390789
+Great Lakes Plain,494.71,44.48,193.49,6.981649059
+Oswego Lowlands,128,83.4,316.34,18.25820618
+Oneida Lake Plains,182.64,62.02,325.04,59.33052385
+Mohawk Valley,69.47,45.09,394.72,33.78170559
+North Taconic Highlands,87.34,43.87,349.46,127.8669121
+North Appalachian Hills,304.66,34.36,198.49,15.17058466
+West Appalachian Plateau,145.63,21.04,160.79,7.97173235
+Central Appalachian Plateau,150.87,55.46,202.12,24.77334828
+East Appalachian Plateau,96.21,49.29,304.32,36.47439124
+Otsego-Delaware Hills,45.11,42.83,301.49,47.72621227
+Catskills,63.39,37.89,369.63,121.3012108
+Hudson Valley,135.62,30.66,369.08,188.9011732
+South Taconic Highlands,105.45,43.19,441.03,360.5643894
+Neversink-Mongaup Hills,68.08,63.42,227.75,53.94618548
+New York City Transition,273.16,24.74,438.76,35.770291
+Coastal Lowlands,181.52,12.39,8.61,14.59284918
