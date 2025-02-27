@@ -44,7 +44,6 @@ pars <- c(u = 0.2,
           p_rf_op = 0.041,
           p_gf_op = 0.0031,
           p_coy_op = 0.726
-          
 )
 
 pars_og <- pars
