@@ -1,13 +1,13 @@
 # Data and code Van Horn & Allen (in submission)
 Data and code for a manuscript in submission. 
 
-- `data_spatial/nh_spatial` Data for the New Hampshire spatial regression
+- `data_spatial/nh_spatial.csv` Data for the New Hampshire spatial regression
 	- `WMU` Wildlife management unit 
 	- `coy` Coyote catch per unit effort in that WMU
 	- `gf` Grey fox catch per unit effort in that WMU
 	- `rf` Red fox catch per unit effort in that WMU
 	- `lyme` Lyme disease cases per 100,000 people in that WMU
-- `data_spatial/ny_spatial` Data for the New York spatial regression
+- `data_spatial/ny_spatial.csv` Data for the New York spatial regression
 	- `fur_area` Name of the NY fur area
 	- `coy` Coyote sighted per 1000 hunter hours
 	- `gf` Grey fox sighted per 1000 hunter hours
